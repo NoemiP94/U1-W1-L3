@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    
+}
+ main{
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .text {
+    text-align: center;
+    background-color: rgb(228, 212, 125);
+    border-top: 1px solid orange;    
+}
+
+#logo {
+    text-align: center;
+
+}
+
+header p {
+    font-size: 0.8em;
+    color: rgb(5, 156, 123);
+    padding-bottom: 0.8em;
+} 
+
+h1 {
+    text-align: center;
+    font-size: 2em;   
+}
+
+figure  {
+    margin: 0;
+    text-align: center;
+    color: rgb(168, 166, 166);
+}
+
+#featured {
+    border-left: 1px solid orange;
+    padding-left: 2em;
+    margin-bottom: 2.5em;
+}
+
+#featured p {
+    color: rgb(211, 103, 3);
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+a{
+    color: rgb(5, 156, 123);
+}
+
+hr {
+
+    border-top: 1px solid rgb(5, 156, 123);
+}
+
+ul {
+    line-height: 2em;
+}
+
+.make {
+    font-weight: bold;
+}
+
+
