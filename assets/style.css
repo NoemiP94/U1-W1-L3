@@ -6,13 +6,14 @@ body {
     margin: 0 auto;
     
 }
- main{
+
+main{
     width:600px;
     margin-left: auto;
     margin-right: auto;
- }
+}
 
- .text {
+.text {
     text-align: center;
     background-color: rgb(228, 212, 125);
     border-top: 1px solid orange;    
@@ -68,5 +69,3 @@ ul {
 .make {
     font-weight: bold;
 }
-
-
